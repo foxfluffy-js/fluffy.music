@@ -4,24 +4,24 @@
   </a>
 </p>
 
-<h1 align="center">@aoijs/aoi.music</h1>
+<h1 align="center">@fluffy/aoi.music</h1>
 
-A powerful TypeScript-based JavaScript library that adds music-related properties and lays a solid foundation for music operations in aoi.js. 
+A powerful TypeScript-based JavaScript library that adds music-related properties and lays a solid foundation for music operations in fluffy.js. 
 
 ## 🚀 Setup
 
 To get started with @aoijs/aoi.music, follow these simple steps:
 
-1. Install @aoijs/aoi.music via npm:
+1. Install fluffy.music via npm:
 
    ```bash
-   npm install @aoijs/aoi.music
+   npm install fluffy.music
    ```
 
 2. Import the Manager class and create a new instance:
 
    ```javascript
-   const { Manager } = require("@aoijs/aoi.music");
+   const { Manager } = require("fluffy.music");
    
    const manager = new Manager({
       devOptions: {
